@@ -2,7 +2,7 @@
 
 I practiced my coding skills, collected some reources and stored in here.
 
-- Credits to
+## Credit to
 - Github
 - Leecode
 - Project Euler
