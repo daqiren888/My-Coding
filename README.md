@@ -1,4 +1,4 @@
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=daqiren888&repo=coding-works-and-resources)](https://github.com/daqiren888/coding-works-and-resources)
+[![Readme Card](https://coding-works-and-resources.vercel.app/api/pin/?username=daqiren888&repo=coding-works-and-resources)](https://github.com/daqiren888/coding-works-and-resources)
 
 
 # My Coding Works
