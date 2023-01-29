@@ -1,4 +1,4 @@
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=daqiren888&repo=github-readme-stats)](https://github.com/daqiren888/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=daqiren888&repo=https://github.com/daqiren888/coding-works-and-resources)](https://github.com/daqiren888/coding-works-and-resources)
 # My Coding Works
 
 I practiced my coding skills, collected some reources and stored in here.
